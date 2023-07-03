@@ -92,6 +92,8 @@ To contribute:
 
 [Fall 2021](https://github.com/BaruYogesh/Fall2021Internships)
 
+[my Sample](https://github.com/deskenazi/Fall2023-Internships/blob/main/README.md)
+
 ## Contributors
 
 pittcsc <3
